@@ -1,0 +1,13 @@
+Link para download: https://git-scm.com/
+
+1 - Criar rep no github
+2 - copiar link do seu rep no gh
+3 - criar pasta no pc
+4 - Git bash here
+5 - git clone
+6 - Executar o trabalho
+7 - git status
+8 - git add .
+9 - git commit -m "Comentario"
+10 - git push origin main
+
