@@ -4,9 +4,9 @@ Link para download: https://git-scm.com/
 2 - copiar link do seu rep no gh
 3 - criar pasta no pc
 4 - Git bash here
-5 - git clone
+5 - git clone /* Se projeto esta sendo copiado*/
+5 - git remote add origin "link" /* Se projeto esta sendo feito no git local */
 6 - Executar o trabalho
-6.5 - git init
 7 - git status
 8 - git add .
 9 - git commit -m "Comentario"
