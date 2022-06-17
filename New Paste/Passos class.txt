@@ -6,6 +6,7 @@ Link para download: https://git-scm.com/
 4 - Git bash here
 5 - git clone
 6 - Executar o trabalho
+6.5 - git init
 7 - git status
 8 - git add .
 9 - git commit -m "Comentario"
